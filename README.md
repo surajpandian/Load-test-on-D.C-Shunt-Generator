@@ -41,3 +41,4 @@ Model graph:
 <img width="399" height="182" alt="image" src="https://github.com/user-attachments/assets/05d45b14-c35d-4f16-a08a-58b263da9b84" />
 
 Result:
+(https://github.com/user-attachments/assets/405dfaf1-6dd8-47cd-ad51-c84f110c5ff0)
