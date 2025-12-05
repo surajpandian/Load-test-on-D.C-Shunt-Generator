@@ -1,6 +1,6 @@
 # Load-test-on-D.C-Shunt-Generator
-### Name:Pandikumar S
-### Reg no:212223080036
+### Name:R suraj pandian
+### Reg no:212223080040
 ## Aim:
 To verify the Kirchoff’s Current law and Voltage law for the given circuit theoretically and practically.
 
